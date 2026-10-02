@@ -23,5 +23,5 @@ Eslint has already been configured with eslint-config-prettier to let prettier h
 
 After cloning the repository run `npm install` & then run:
 `./setUpProjectName.sh <your-project-name>`.
-This will automatically replace the name of the current project `react-template` to whatever project name you provide.
+This will automatically replace the name of the current project `react-testing` to whatever project name you provide.
 Remember to change the `<title></title>` in **index.html** yourself as it needs to be human readable.
